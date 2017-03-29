@@ -32,5 +32,5 @@ define( 'TEMA_URI', get_template_directory_uri() );
    </span>
    
    <!-- // Indicate where the javascript script is hosted | Indicar o local aonde o javascript está hospedado -->
-<script async type="text/javascript" src="<?= TEMA_URI; ?>/functions/js/media_upload.js"></script>
+<script src="<?= TEMA_URI; ?>/functions/js/media_upload.js"></script>
 ```
